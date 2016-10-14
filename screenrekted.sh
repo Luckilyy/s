@@ -1,6 +1,7 @@
 #!/bin/bash
 while [ 1 > 0 ]
 do
+xlock    
 xrandr -o left
 setxkbmap us
 sleep 1
